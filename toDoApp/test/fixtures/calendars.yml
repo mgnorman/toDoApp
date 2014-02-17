@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  New_Event_Title: MyString
+  Location: MyString
+  Date: MyString
+  Starts: 1
+  Ends: 1
+  Notes: MyText
+
+two:
+  New_Event_Title: MyString
+  Location: MyString
+  Date: MyString
+  Starts: 1
+  Ends: 1
+  Notes: MyText
